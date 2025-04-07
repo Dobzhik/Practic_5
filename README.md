@@ -10,4 +10,9 @@
 
 
 WPF:
+
+
+
+
+
 ![изображение](https://github.com/user-attachments/assets/3ab56364-b00a-423c-ba60-ce9ea2dce797)
